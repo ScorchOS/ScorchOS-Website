@@ -183,6 +183,14 @@ a:active {
   color: blue;
 }
 
+a:link {
+  color: blue;	
+}	
+
+a:link.linkwhite {
+  color: white;	
+}
+
 a:active.activewhite {
   color: white;
 }
