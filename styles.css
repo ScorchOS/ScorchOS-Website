@@ -171,6 +171,30 @@ body {
   background-color: #4F4F4F;	
 }	
 
+h1.changelog-title {
+  color: #F7F7F7;	
+}
+
+ul.changelog-list {
+  color: #A1A1A1;
+}
+
+a:active {
+  color: blue;
+}
+
+a:visited {
+  color: darkblue;
+}
+
+a:hover {
+  color: black;	
+}
+
+a:link {
+  color: darkblue;	
+}
+
 footer {
   background-image: url(images/footer-background.png);
   background-size: cover;
