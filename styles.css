@@ -183,16 +183,20 @@ a:active {
   color: blue;
 }
 
+a:active.activewhite {
+  color: white;
+}
+
 a:visited {
   color: darkblue;
 }
 
-a:hover {
-  color: black;	
+a:visited.visitwhite {
+  color: white;
 }
 
-a:link {
-  color: darkblue;	
+a:hover {
+  color: black;	
 }
 
 footer {
